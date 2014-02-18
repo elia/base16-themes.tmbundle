@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ryvn@fpuvgb.zr</string>
+	<key>contactName</key>
+	<string>Elia Schito</string>
+	<key>description</key>
+	<string>A TextMate Bundle for Base16 themes:
+
+https://github.com/chriskempson/base16-textmate
+
+</string>
+	<key>name</key>
+	<string>Base16 Themes</string>
+	<key>uuid</key>
+	<string>F6717F52-4759-4324-8E21-B502D22FFE2F</string>
+</dict>
+</plist>
